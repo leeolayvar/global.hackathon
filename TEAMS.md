@@ -1,4 +1,4 @@
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamKoders/ABOUT.md)
+[Source](./Teams//TeamKoders/ABOUT.md)
 This is our page
 ================
 
@@ -32,13 +32,13 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/0xFACE/ABOUT.md)
+[Source](./Teams//0xFACE/ABOUT.md)
 /////////LOADING/////////
 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/254Coders/ABOUT.md)
+[Source](./Teams//254Coders/ABOUT.md)
 254Coders
 =========
 
@@ -59,7 +59,7 @@ We are still brainstoming...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/3DPG/ABOUT.md)
+[Source](./Teams//3DPG/ABOUT.md)
 3DPG
 ====
 
@@ -93,7 +93,7 @@ maybe, will be a game ^^.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/55by19Koders/ABOUT.md)
+[Source](./Teams//55by19Koders/ABOUT.md)
 
 
 55by19Koders
@@ -116,7 +116,7 @@ This is our first hackathon per see. We just want to have a blast trying to do s
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/720devs/ABOUT.md)
+[Source](./Teams//720devs/ABOUT.md)
 *720devs*
 
 We're the founders of 720developments.com, as you can see in our webpage, we're a couple that is working with web developments together since we're just 21 years old (and dating since we're just 17). 7 years later since we starting on our own, we are still here, doing the same but in more interesting projects, trying to learn as much as we can in our free time, and trying to travel as much as we can with our budget.
@@ -149,7 +149,7 @@ I'll enumerate the most important ones:
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/8cookin/ABOUT.md)
+[Source](./Teams//8cookin/ABOUT.md)
 8cookin
 ================
 
@@ -167,7 +167,7 @@ hard-core developer! Search in [google](https://www.google.com.tr/#q=eray+arslan
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/AALuckers/ABOUT.md)
+[Source](./Teams//AALuckers/ABOUT.md)
 This is our page
 ================
 
@@ -192,7 +192,7 @@ About our skills and what we are going to do?
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/AAVAA/ABOUT.md)
+[Source](./Teams//AAVAA/ABOUT.md)
 Team AAVAA
 ================
 About our team
@@ -212,7 +212,7 @@ About our skills and what we are going to do?
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/AO14/ABOUT.md)
+[Source](./Teams//AO14/ABOUT.md)
 About Me
 ===========================
 
@@ -246,7 +246,7 @@ Skills:
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/AOC/ABOUT.md)
+[Source](./Teams//AOC/ABOUT.md)
 AOÇ HERE!
 ================
 
@@ -276,7 +276,7 @@ we're into applications.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Achraf52/ABOUT.md)
+[Source](./Teams//Achraf52/ABOUT.md)
 Achraf52
 =====
 
@@ -300,7 +300,7 @@ I decided to participate in the Koding Hackathon because first of all it's an in
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/AcklenAvenue/ABOUT.md)
+[Source](./Teams//AcklenAvenue/ABOUT.md)
 This is our page
 ================
 
@@ -346,7 +346,7 @@ More coming soon...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/AgainstFlow/ABOUT.md)
+[Source](./Teams//AgainstFlow/ABOUT.md)
 My name is Maja Dinjar. I come from Croatia, small country with a beatiful seaside. 
 
 Maps were always my passion, and on this Hackathon I'll try to represent the world what are maps capable of doing today.
@@ -355,7 +355,7 @@ Maps were always my passion, and on this Hackathon I'll try to represent the wor
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Aina/ABOUT.md)
+[Source](./Teams//Aina/ABOUT.md)
 About A.I.N.A.
 ===========================
 <img width="100" height="100" src='http://img3.wikia.nocookie.net/__cb20070710142716/dothack/images/6/62/Returner_Ina.jpg' alt='Aina'/>
@@ -390,7 +390,7 @@ Languages-Lenguages
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/AlfioMissaglia/ABOUT.md)
+[Source](./Teams//AlfioMissaglia/ABOUT.md)
 ###About me
 Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student who lives in Venice, Italy.
 I own the [www.missaglialfio.pw](https://www.missaglialfio.pw/) blog :)
@@ -412,7 +412,7 @@ I'll probably use:
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Altech/ABOUT.md)
+[Source](./Teams//Altech/ABOUT.md)
 #Altech
 
 ###What we do
@@ -451,7 +451,7 @@ We also commonly work with
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Andr3iC/ABOUT.md)
+[Source](./Teams//Andr3iC/ABOUT.md)
 
 About your team
 ===========================
@@ -469,7 +469,7 @@ Haven’t decided what to do yet, but it will be done using Python
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Antonio/ABOUT.md)
+[Source](./Teams//Antonio/ABOUT.md)
 
 # Antonio
 
@@ -504,7 +504,7 @@ always possible to make it awesome.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/AsepCo/ABOUT.md)
+[Source](./Teams//AsepCo/ABOUT.md)
 AsepCo
 ================
 We are located in South Jakarta, Indonesia.
@@ -523,7 +523,7 @@ We are interested to work on #1 or #3 theme.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/B17/ABOUT.md)
+[Source](./Teams//B17/ABOUT.md)
 B17
 ====
 
@@ -550,7 +550,7 @@ Frameworks:
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Bad-Aces/ABOUT.md)
+[Source](./Teams//Bad-Aces/ABOUT.md)
 
 Introduction
 ================
@@ -580,7 +580,7 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Bali/ABOUT.md)
+[Source](./Teams//Bali/ABOUT.md)
 This is our page
 ================
 
@@ -604,7 +604,7 @@ Python for sure!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Birmingham.IO/ABOUT.md)
+[Source](./Teams//Birmingham.IO/ABOUT.md)
 Birmingham.IO
 ===========================
 
@@ -626,7 +626,7 @@ Right now, we don't have a clue, but I'm hoping inspiration will hit soon. Watch
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Bismedia/ABOUT.md)
+[Source](./Teams//Bismedia/ABOUT.md)
 Bismedia
 ================
 
@@ -657,7 +657,7 @@ rich UI sites, complicated biz webapps and distributed heavily async systems.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Black-Rabbits/ABOUT.md)
+[Source](./Teams//Black-Rabbits/ABOUT.md)
 We are The Black Rabbits
 ================
 Why do we want to join the competition and what do we have to bring? 
@@ -689,7 +689,7 @@ John Harter
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Bogdan/ABOUT.md)
+[Source](./Teams//Bogdan/ABOUT.md)
 About me
 ===========================
 
@@ -708,7 +708,7 @@ Languages I love
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/BoomSticks/ABOUT.md)
+[Source](./Teams//BoomSticks/ABOUT.md)
 BoomSticks
 ===========================
 
@@ -751,7 +751,7 @@ Stuff we don't know
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/BrevityLabs/ABOUT.md)
+[Source](./Teams//BrevityLabs/ABOUT.md)
 # Brevity Labs
 
 I am Mukul Biswas, an independent data scientist and application developer. I make my products or utilities in 
@@ -766,7 +766,7 @@ The other languages I like are -
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/ByteMe/ABOUT.md)
+[Source](./Teams//ByteMe/ABOUT.md)
 Team ByteMe
 ================
 
@@ -787,7 +787,7 @@ About your team
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CallbackHell/ABOUT.md)
+[Source](./Teams//CallbackHell/ABOUT.md)
 About your team
 ===========================
 
@@ -805,7 +805,7 @@ The idea is to create a mesh of the existing public APIs and gather publicly ava
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CardboardCoders/ABOUT.md)
+[Source](./Teams//CardboardCoders/ABOUT.md)
 Team Cardboard Coders
 ================
 
@@ -832,7 +832,7 @@ We will update this as soon as we've made up our minds.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CheapyWay/ABOUT.md)
+[Source](./Teams//CheapyWay/ABOUT.md)
 # CheapyWay
 
 We are CheapyWay, a young and very active team of web developers.
@@ -847,7 +847,7 @@ We are CheapyWay, a young and very active team of web developers.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Cheers/ABOUT.md)
+[Source](./Teams//Cheers/ABOUT.md)
 Cheers Page
 ================
 
@@ -880,7 +880,7 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CheerySnowman/ABOUT.md)
+[Source](./Teams//CheerySnowman/ABOUT.md)
 # CheerySnowman
 
 ## About
@@ -896,7 +896,7 @@ I have been trying out many popular languages (Java and C++, Scheme and F#, pyth
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/ChennaiNerd/ABOUT.md)
+[Source](./Teams//ChennaiNerd/ABOUT.md)
 ChennaiNerd
 ===========
 
@@ -926,7 +926,7 @@ Still thinking about it. But it will surely be something special!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CloudSolvers/ABOUT.md)
+[Source](./Teams//CloudSolvers/ABOUT.md)
 Cloud Solvers
 ================
 
@@ -973,7 +973,7 @@ Other tech stuff we like
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Coddee-Break/ABOUT.md)
+[Source](./Teams//Coddee-Break/ABOUT.md)
 # Coddee Break Team
 
 We are Kuzma and Vadim, we like both hacking and games, and we believe it's sometimes the same thing!
@@ -990,7 +990,7 @@ We love creativity and we want to show anybody it can be pleasure to build your 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Code48/ABOUT.md)
+[Source](./Teams//Code48/ABOUT.md)
 This is our page
 ================
 
@@ -1013,7 +1013,7 @@ cyp901 is a professional database developer and architect with a love for coding
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CodeGreen/ABOUT.md)
+[Source](./Teams//CodeGreen/ABOUT.md)
 About CodeGreen Team
 ===========================
 
@@ -1028,7 +1028,7 @@ We are a passionate group of developers, interested in making a difference and d
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CodeNotion/ABOUT.md)
+[Source](./Teams//CodeNotion/ABOUT.md)
 This is our page
 ================
 
@@ -1048,7 +1048,7 @@ You can expect something fun, multiplayer and educational. We are avid learners,
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CodeRabbits/ABOUT.md)
+[Source](./Teams//CodeRabbits/ABOUT.md)
 We are CodeRabbits.
 ===================
 
@@ -1057,7 +1057,7 @@ More coming soon...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CodeXCode/ABOUT.md)
+[Source](./Teams//CodeXCode/ABOUT.md)
 This is our page
 ================
 
@@ -1082,7 +1082,7 @@ Coming Soon ...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CondorCode/ABOUT.md)
+[Source](./Teams//CondorCode/ABOUT.md)
 This is our page
 ================
 
@@ -1113,7 +1113,7 @@ dev so we might be going that way with some cool HTML5 based game.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CrowdAppz/ABOUT.md)
+[Source](./Teams//CrowdAppz/ABOUT.md)
 CrowdAppz
 ================
 
@@ -1140,7 +1140,7 @@ CrowdAppz
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Cu3mbY/ABOUT.md)
+[Source](./Teams//Cu3mbY/ABOUT.md)
 About Cu3mBY Team
 =================
 
@@ -1178,7 +1178,7 @@ We are group of friends we love coding together, solve problems and have fun cre
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/CyberHopes/ABOUT.md)
+[Source](./Teams//CyberHopes/ABOUT.md)
 #Team CyberHopes
 
 We're a couple who loves to code. 
@@ -1201,7 +1201,7 @@ We're a couple who loves to code.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/D-Parcelables/ABOUT.md)
+[Source](./Teams//D-Parcelables/ABOUT.md)
 This is our page
 ================
 
@@ -1235,7 +1235,7 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/DIS/ABOUT.md)
+[Source](./Teams//DIS/ABOUT.md)
 Team DIS
 ================
 
@@ -1261,7 +1261,7 @@ We will use PHP, Javascript, Google Translate API, Bootstrap and lots of love...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/DaAkuMahApa/ABOUT.md)
+[Source](./Teams//DaAkuMahApa/ABOUT.md)
 DaAkuMahApa
 ================
 
@@ -1289,7 +1289,7 @@ We're interested in exploring theme number 1 or 3. We will try to combine the av
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/DeadWookie/ABOUT.md)
+[Source](./Teams//DeadWookie/ABOUT.md)
 # DeadWookie #
 
 _TODO: update this page_
@@ -1307,7 +1307,7 @@ Actually, brainstorming…
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/DevPro/ABOUT.md)
+[Source](./Teams//DevPro/ABOUT.md)
 This is our page
 ================
 
@@ -1342,7 +1342,7 @@ OUR SKILLS
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Dingoes ate my baby/ABOUT.md)
+[Source](./Teams//Dingoes ate my baby/ABOUT.md)
 About me
 ===========================
 
@@ -1360,7 +1360,7 @@ Python, JS, HTML&CSS
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/DropTableContestants/ABOUT.md)
+[Source](./Teams//DropTableContestants/ABOUT.md)
 DROP TABLE Contestants
 ======================
 
@@ -1403,7 +1403,7 @@ Financials
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Earthly/ABOUT.md)
+[Source](./Teams//Earthly/ABOUT.md)
 Earthly
 ====
 
@@ -1429,7 +1429,7 @@ fully decided yet. I want my project to be able to make a difference.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Echoes/ABOUT.md)
+[Source](./Teams//Echoes/ABOUT.md)
 # Echoes
 
 We are a team from Croatia. Between us we have over 15 years of experience in web development. We all enjoy a good challenge, but we have never worked as a team. This will be an opportunity for us to see what we can create together.
@@ -1463,7 +1463,7 @@ We like useful things, so that's what we hope to create here - a useful tool.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/ElusiveBits/ABOUT.md)
+[Source](./Teams//ElusiveBits/ABOUT.md)
 The Elusive Bits
 ================
 
@@ -1492,7 +1492,7 @@ We'll be targeting themes 2, 5, and 6.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Esquilax/ABOUT.md)
+[Source](./Teams//Esquilax/ABOUT.md)
 This is our page
 ================
 
@@ -1513,13 +1513,13 @@ We don't know yet! :D
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/EventHorizon/ABOUT.md)
+[Source](./Teams//EventHorizon/ABOUT.md)
 http://eventhorizon.pl/
 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Excaliburs/ABOUT.md)
+[Source](./Teams//Excaliburs/ABOUT.md)
 # Excaliburs
 
 
@@ -1530,7 +1530,7 @@ I like coding in JavaScript and PHP.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/ExpertsUnlimited/ABOUT.md)
+[Source](./Teams//ExpertsUnlimited/ABOUT.md)
 == Team Name: Experts Unlimited
 
 -- About Us:
@@ -1552,7 +1552,7 @@ Languages :
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/F00Pill/ABOUT.md)
+[Source](./Teams//F00Pill/ABOUT.md)
 Team F00 Pill
 ================
 
@@ -1573,7 +1573,7 @@ Languages
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/FireInside/ABOUT.md)
+[Source](./Teams//FireInside/ABOUT.md)
 Fire Inside
 ================
 
@@ -1607,7 +1607,7 @@ technologies in a result that is both practical and delightful for users.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Float-Center/ABOUT.md)
+[Source](./Teams//Float-Center/ABOUT.md)
 We are...Float-Center
 
 We are skilled
@@ -1623,7 +1623,7 @@ Float-Center
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/FrozenLogic/ABOUT.md)
+[Source](./Teams//FrozenLogic/ABOUT.md)
 FrozenLogic
 ================
 
@@ -1656,7 +1656,7 @@ We're looking into themes 2,3,5.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/FunkyFreshBoyz/ABOUT.md)
+[Source](./Teams//FunkyFreshBoyz/ABOUT.md)
 Funky Fresh Boyz
 ====================
 
@@ -1671,7 +1671,7 @@ More info coming soon...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/G10aT/ABOUT.md)
+[Source](./Teams//G10aT/ABOUT.md)
 # Team G10aT
 
 Like doing stuff.
@@ -1686,7 +1686,7 @@ Like doing stuff.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/GForce/ABOUT.md)
+[Source](./Teams//GForce/ABOUT.md)
 G Force
 ================
 
@@ -1714,7 +1714,7 @@ We will maybe work on topics #2 or #3
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Gamma/ABOUT.md)
+[Source](./Teams//Gamma/ABOUT.md)
 # Team Gamma
 
 I am Alexander Barsukov.
@@ -1735,7 +1735,7 @@ I've dealt with quite a few programming languages.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Gerasim/ABOUT.md)
+[Source](./Teams//Gerasim/ABOUT.md)
 This is our page
 ================
 
@@ -1761,7 +1761,7 @@ Technologies: super PHP and amazing JS.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/GrafD/ABOUT.md)
+[Source](./Teams//GrafD/ABOUT.md)
 This is our page
 ================
 
@@ -1784,7 +1784,7 @@ It will be an awesome project created with node and HTML5 stack.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/GudegUnited/ABOUT.md)
+[Source](./Teams//GudegUnited/ABOUT.md)
 GudegUnited
 ===========
 
@@ -1799,7 +1799,7 @@ Create flexible and fast application.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Gundam/ABOUT.md)
+[Source](./Teams//Gundam/ABOUT.md)
 Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
 ================
 <p align="center">
@@ -1840,7 +1840,7 @@ Tommy just recently started app development and web development, and he has fall
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/HacXor/ABOUT.md)
+[Source](./Teams//HacXor/ABOUT.md)
 This is our page
 ================
 
@@ -1867,7 +1867,7 @@ Still brainstorming, probably best ideas always take little time to grow!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/HackBeard/ABOUT.md)
+[Source](./Teams//HackBeard/ABOUT.md)
 I'm Ranjith, Designer Developer and a coffee addict.. 
 Pretty much my first hackathon, looking forward to having a good time..
 
@@ -1875,7 +1875,7 @@ Pretty much my first hackathon, looking forward to having a good time..
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/HackLenotta/ABOUT.md)
+[Source](./Teams//HackLenotta/ABOUT.md)
 This is our page
 ================
 
@@ -1900,7 +1900,7 @@ We're skilled on both frontend and backend development. We'll probably use baask
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/HackOwls/ABOUT.md)
+[Source](./Teams//HackOwls/ABOUT.md)
 HackOwls
 ========
 __Why do we want to join the competition?__
@@ -1940,7 +1940,7 @@ We are interested to work on #5 or #1 theme.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Hackateers/ABOUT.md)
+[Source](./Teams//Hackateers/ABOUT.md)
 ## Introducing The Hackateers
 
 We are a group of three hackers hailing from [Carnegie Mellon University in Qatar](http://qatar.cmu.edu).
@@ -1965,7 +1965,7 @@ We will be possibly utilizing NLP technologies and APIs such as NLTK, wit.ai, or
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Hackron/ABOUT.md)
+[Source](./Teams//Hackron/ABOUT.md)
 This is our page
 ================
 
@@ -1989,7 +1989,7 @@ We are still brainstorming.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Helwa/ABOUT.md)
+[Source](./Teams//Helwa/ABOUT.md)
 This is our page
 ================
 
@@ -2011,7 +2011,7 @@ We both enjoy spontaneous projects and enjoy a love for Linux and open source te
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Heterotopias/ABOUT.md)
+[Source](./Teams//Heterotopias/ABOUT.md)
 
 # Heterotopias
 
@@ -2034,7 +2034,7 @@ We are Spyridon, Georgios and Pantelis, we are a new team with great ambitions!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Huggie/ABOUT.md)
+[Source](./Teams//Huggie/ABOUT.md)
 This is our page
 ================
 
@@ -2070,7 +2070,7 @@ good bet!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Hurricane/ABOUT.md)
+[Source](./Teams//Hurricane/ABOUT.md)
 
 # Hurricane
 
@@ -2092,7 +2092,7 @@ JavaScript , PHP , JAVA , CSS , HTML , C , C# , C++ , Android , Objective-C , No
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/IQHacker/ABOUT.md)
+[Source](./Teams//IQHacker/ABOUT.md)
 IQHacker
 ================
 
@@ -2122,7 +2122,7 @@ Our Skills
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/InTokaBola/ABOUT.md)
+[Source](./Teams//InTokaBola/ABOUT.md)
 # Team In-Toke-A-Bola
 
 Though I'm a team of one, I'm passionate about software development, engineering and just building fun and interesting tools and products.
@@ -2143,7 +2143,7 @@ I've seen a number of different HTML5 / Angular Games out there, and that might 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Infinity/ABOUT.md)
+[Source](./Teams//Infinity/ABOUT.md)
 Infinity Team
 ================
 
@@ -2168,7 +2168,7 @@ We haven't yet set what we are going to do. We will choose something simple and 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/InsaneAi/ABOUT.md)
+[Source](./Teams//InsaneAi/ABOUT.md)
 # InsaneAi Team
 
 We are a group of enthusiastic developers around the world and passioned
@@ -2184,7 +2184,7 @@ performance.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/IntelligenceSpreaders/ABOUT.md)
+[Source](./Teams//IntelligenceSpreaders/ABOUT.md)
 Intelligence Spreader
 ================
 
@@ -2210,7 +2210,7 @@ We have got experience in python and php, so our application gonna revolve aroun
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Invincibles/ABOUT.md)
+[Source](./Teams//Invincibles/ABOUT.md)
 Team Invincibles
 
 ================
@@ -2235,7 +2235,7 @@ Still brainstorming ideas
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/J-Unit/ABOUT.md)
+[Source](./Teams//J-Unit/ABOUT.md)
 J-Unit
 ================
 
@@ -2272,7 +2272,7 @@ Our Skills
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Jalarast/ABOUT.md)
+[Source](./Teams//Jalarast/ABOUT.md)
 
 Introduction
 ================
@@ -2292,7 +2292,7 @@ I'll be using AngularJS and WebGL to write the frontend and Java on Google App E
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Joof/ABOUT.md)
+[Source](./Teams//Joof/ABOUT.md)
 # Joof
 
 Awesome team having a damn royal experience in hardware, software, anywhere.
@@ -2308,7 +2308,7 @@ So, we develop backend systems, frontend and mobile apps. It seems to be a full-
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/KRATOS/ABOUT.md)
+[Source](./Teams//KRATOS/ABOUT.md)
 
 # Team KRATOS
 
@@ -2318,7 +2318,7 @@ I'm Duong from Vietnam!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/KWAX/ABOUT.md)
+[Source](./Teams//KWAX/ABOUT.md)
 # Some info =)
 
 Maxim: I'm experienced developer, 8 years web development and last year I started developing mobile applications on iOS platform. Also I have skills in C/C++/C# programming.
@@ -2336,7 +2336,7 @@ We can use this languages in our project:
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/KawaiiDesuDevs/ABOUT.md)
+[Source](./Teams//KawaiiDesuDevs/ABOUT.md)
 # KawaiiDesuDevs
 
 We are two high-school students (and maybe the only ones in this hackatoon) from Brazil.
@@ -2360,7 +2360,7 @@ We will tell more about us later...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Khatri/ABOUT.md)
+[Source](./Teams//Khatri/ABOUT.md)
 This is our page
 ================
 
@@ -2381,7 +2381,7 @@ Coming soon...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Knecht/ABOUT.md)
+[Source](./Teams//Knecht/ABOUT.md)
 Knecth
 ================
 
@@ -2403,7 +2403,7 @@ My plan is to create one of educational prototypes for this first global hackath
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/LaraSasha/ABOUT.md)
+[Source](./Teams//LaraSasha/ABOUT.md)
 This is our page
 ================
 
@@ -2436,7 +2436,7 @@ API is my passion and I'm going to show how the API will change the world and yo
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/LifeInCoding/ABOUT.md)
+[Source](./Teams//LifeInCoding/ABOUT.md)
 About your team
 ===========================
 
@@ -2454,7 +2454,7 @@ I plan to use a python related web development framework, javascript, html5 and 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/M-Team/ABOUT.md)
+[Source](./Teams//M-Team/ABOUT.md)
 # M-Team
 
 My team is still a one member team but soon we will be 2 or 3 members :)
@@ -2476,7 +2476,7 @@ My team is still a one member team but soon we will be 2 or 3 members :)
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/MPI/ABOUT.md)
+[Source](./Teams//MPI/ABOUT.md)
 # MPI
 
 
@@ -2490,7 +2490,7 @@ I am a python developer (alone)
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Magusd/ABOUT.md)
+[Source](./Teams//Magusd/ABOUT.md)
 Magusd
 ================
 
@@ -2529,12 +2529,12 @@ My Stack
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Matrix/ABOUT.md)
+[Source](./Teams//Matrix/ABOUT.md)
 <h3>Hello World!</h3>
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Mics/ABOUT.md)
+[Source](./Teams//Mics/ABOUT.md)
 # Mics
 
 Hello from Belarus, Global Hackathon!!!
@@ -2554,7 +2554,7 @@ Hello from Belarus, Global Hackathon!!!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/MiracleTeam/ABOUT.md)
+[Source](./Teams//MiracleTeam/ABOUT.md)
 # team miracle
 
 i am jabir ali
@@ -2568,7 +2568,7 @@ as3
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/MonitorBacklinks/ABOUT.md)
+[Source](./Teams//MonitorBacklinks/ABOUT.md)
 
 # Team Monitor Backlinks
 
@@ -2586,7 +2586,7 @@ We are building and scaling Monitor Backlinks on PHP Yii2 Framework, using Amazo
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Moonchar/ABOUT.md)
+[Source](./Teams//Moonchar/ABOUT.md)
 About your team
 ===========================
 
@@ -2600,7 +2600,7 @@ We are going to implement an interesting game to introduce software development 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Moyrilia/ABOUT.md)
+[Source](./Teams//Moyrilia/ABOUT.md)
 Nikolas Moya @nikolasmoya
 ===========================
 - from: Campinas, Brasil
@@ -2623,7 +2623,7 @@ Marilia Ferreira @m_ntns
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/NUSTechnology/ABOUT.md)
+[Source](./Teams//NUSTechnology/ABOUT.md)
 This is our page
 ================
 
@@ -2647,7 +2647,7 @@ We are thinking of building an application to help the world increase their awar
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Neo/ABOUT.md)
+[Source](./Teams//Neo/ABOUT.md)
 About my team
 ===========================
 I am a Web Engineer with experience working with LAMP and MEAN stacks, specialized in front-end web development and web application performance. I am a U.S. citizen living in Venezuela by the moment.
@@ -2666,7 +2666,7 @@ I am deciding to work the theme #1 or #3, using the MEAN stack and d3.js for int
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Neskromny/ABOUT.md)
+[Source](./Teams//Neskromny/ABOUT.md)
 # Neskromny
 
 ## I'm a web programmer from Kiev
@@ -2676,7 +2676,7 @@ I am deciding to work the theme #1 or #3, using the MEAN stack and d3.js for int
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Neva River/ABOUT.md)
+[Source](./Teams//Neva River/ABOUT.md)
 This is our page
 ================
 
@@ -2699,7 +2699,7 @@ Coming soon
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/NewFolder/ABOUT.md)
+[Source](./Teams//NewFolder/ABOUT.md)
 Sadique Ali P
 Sachin Murali G
 Akhil Balakrishnan
@@ -2711,7 +2711,7 @@ Member of Tech Staffs at Nethram India Innovation Centre. Graduates from Governm
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Nightglow/ABOUT.md)
+[Source](./Teams//Nightglow/ABOUT.md)
 Hello everybody,
 
 my name is Stefan Blamberg, I am a 17-year-old hobby developer from Germany and this is my first hackaton.
@@ -2724,7 +2724,7 @@ Visit my Website: www.blamberg.org
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Nilofer/ABOUT.md)
+[Source](./Teams//Nilofer/ABOUT.md)
 Nilofer
 ================
 
@@ -2758,7 +2758,7 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/OldMonks/ABOUT.md)
+[Source](./Teams//OldMonks/ABOUT.md)
 
 # Oldmonks
 
@@ -2778,7 +2778,7 @@ Coming soon
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Optimus/ABOUT.md)
+[Source](./Teams//Optimus/ABOUT.md)
 About my team
 ===========================
 I am a Software Engineer with experience of MEAN stack, specialized in back-end web development. I am a citizen of Sri Lanka.
@@ -2797,7 +2797,7 @@ My focused themes currently are , 1, 3, and 4.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/OrangeVerse/ABOUT.md)
+[Source](./Teams//OrangeVerse/ABOUT.md)
 OrangeVerse
 ================
 We are OrangeVerse! We are Black Swan, Strange Fog, Gods of Random, DIY Software Geniuses.
@@ -2836,7 +2836,7 @@ Vladimir and Rodion. :p
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/PhelanGood/ABOUT.md)
+[Source](./Teams//PhelanGood/ABOUT.md)
 # Team PhelanGood
 One man, on a mission, to save the world through the Koding Global Hackathon. Just kidding.
 
@@ -2871,7 +2871,7 @@ Theme: Problems facing our planet, explained using interactive data visualizatio
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Phi/ABOUT.md)
+[Source](./Teams//Phi/ABOUT.md)
 Phi
 =====
 
@@ -2891,7 +2891,7 @@ To Be Defined
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Piolab/ABOUT.md)
+[Source](./Teams//Piolab/ABOUT.md)
 Piolab
 ================
 A team of "pioneers".
@@ -2911,7 +2911,7 @@ About your skills and what you are going to do?
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Plummy/ABOUT.md)
+[Source](./Teams//Plummy/ABOUT.md)
 Welcome to Plummy
 ================
 
@@ -2946,7 +2946,7 @@ Bayu is UI/UX guy, who works mostly with photoshop and other UI tools, he is als
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Pretender/ABOUT.md)
+[Source](./Teams//Pretender/ABOUT.md)
 About your team
 ===========================
 
@@ -2960,7 +2960,7 @@ Java.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/PumpedDevs/ABOUT.md)
+[Source](./Teams//PumpedDevs/ABOUT.md)
 PumpedDevs
 ================
 Hey! You've actually visited our page(?). We are pumpedDevs! We're thrilled to be part of the first Global Hackathon, well actually, this is the first hackathon for some of us. :)
@@ -2993,7 +2993,7 @@ I know this page is a bit long so here's a sweet potato. :sweet_potato: Sorry fo
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/PyJunkies/ABOUT.md)
+[Source](./Teams//PyJunkies/ABOUT.md)
 # PyJunkies
 
 Bunch of devs addicted to Python.
@@ -3022,7 +3022,7 @@ When the last tree is cut, the last river poisoned, and the last fish dead, we w
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/RandomHackers/ABOUT.md)
+[Source](./Teams//RandomHackers/ABOUT.md)
 Random Hackers
 ==============
 <img width="100" height="100" src='http://i.imgur.com/wt91X85.png' alt='Random Hackers Logo'/>
@@ -3051,7 +3051,7 @@ We're still coming up with one.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/RaphaelTM/ABOUT.md)
+[Source](./Teams//RaphaelTM/ABOUT.md)
 
 This is our page
 ================
@@ -3077,7 +3077,7 @@ I'm not entirely sure what I'd like to tackle specifically.  Perhaps I'll gather
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/RealityConnect/ABOUT.md)
+[Source](./Teams//RealityConnect/ABOUT.md)
 RealityConnect
 ================
 
@@ -3121,7 +3121,7 @@ Sequessu
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Recon/ABOUT.md)
+[Source](./Teams//Recon/ABOUT.md)
 # Recon
 
 Dream don't work unless you do...
@@ -3129,7 +3129,7 @@ Dream don't work unless you do...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Rhinoceros/ABOUT.md)
+[Source](./Teams//Rhinoceros/ABOUT.md)
 This is our page
 ================
 
@@ -3158,7 +3158,7 @@ The TOS and EULA are one tough nut to crack, but it sure would be fun to tackle 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/SERPteam/ABOUT.md)
+[Source](./Teams//SERPteam/ABOUT.md)
 SERPteam
 ===========================
 
@@ -3183,7 +3183,7 @@ We not a choose now which of our ideas to put into Hackathon, but as far as tech
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/ScrumTobe.Software/ABOUT.md)
+[Source](./Teams//ScrumTobe.Software/ABOUT.md)
 ScrumTobe Software
 ================
 
@@ -3215,7 +3215,7 @@ Other information:
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Sidlejinks/ABOUT.md)
+[Source](./Teams//Sidlejinks/ABOUT.md)
 # Sidlejinks team
 
 My name is Dmytro Torianik and my team is called Sidlejinks. I'm passionate about both backend and frontend development. 
@@ -3226,7 +3226,7 @@ Good luck!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/SkyCloudAngels42/ABOUT.md)
+[Source](./Teams//SkyCloudAngels42/ABOUT.md)
 This is our page
 ================
 
@@ -3252,7 +3252,7 @@ It's soon to tell on what idea we'll work during the Hackathon
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Softever/ABOUT.md)
+[Source](./Teams//Softever/ABOUT.md)
 Softever Team
 ================
 
@@ -3275,7 +3275,7 @@ Skills
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/SonsOfWeb/ABOUT.md)
+[Source](./Teams//SonsOfWeb/ABOUT.md)
 Sons Of Web
 ================
 
@@ -3295,7 +3295,7 @@ Passionate Web Engineer, a Self Employed Entrepreneur and father of two. This is
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Stergeron/ABOUT.md)
+[Source](./Teams//Stergeron/ABOUT.md)
 #Team Stergeron
 
 No regrets, ever.
@@ -3326,7 +3326,7 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Super-Mosquitto/ABOUT.md)
+[Source](./Teams//Super-Mosquitto/ABOUT.md)
 Hi everyone.My name is Hristo and I'm a 19 years old software engineering student. I'm going to be building a WebGL game using
 Three.js & Javascript(of course). I have an idea about the game and I won't be revealing it just yet so stay in touch.
 
@@ -3342,7 +3342,7 @@ Thanks !
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Superintech/ABOUT.md)
+[Source](./Teams//Superintech/ABOUT.md)
 We are Team SuperInTech
 =======================
 
@@ -3384,7 +3384,7 @@ We are in a bit of confusion at the current moment, when it comes to deciding wh
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Synexis/ABOUT.md)
+[Source](./Teams//Synexis/ABOUT.md)
 # Synexis
 
 Currently a one-member team.
@@ -3398,7 +3398,7 @@ While I have a vast general knowledge of modern technology in general, my areas 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/T314/ABOUT.md)
+[Source](./Teams//T314/ABOUT.md)
 T314
 ================
 
@@ -3414,7 +3414,7 @@ I will use PHP + node.js + iron.io and WebGL + Canvas... may also WebSpeechAPI
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TNTeam/ABOUT.md)
+[Source](./Teams//TNTeam/ABOUT.md)
 TNTeam
 ========
 
@@ -3462,7 +3462,7 @@ Very likely, we'll use some clojure, java, some html5/CSS3 magic... stay tuned !
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TPro/ABOUT.md)
+[Source](./Teams//TPro/ABOUT.md)
 Transact Pro covered TPro team
 ==============================
 Our team is located in Riga (Latvia). All 48 hours of hackathon we will spend in our company office.
@@ -3493,7 +3493,7 @@ We are wishing all the luck to all participients (ofcourse we have it already ta
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TROJAN/ABOUT.md)
+[Source](./Teams//TROJAN/ABOUT.md)
 TROJAN
 ====
 
@@ -3523,7 +3523,7 @@ The goal of my project is to reduce the food being wasted by people by proving c
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Tachyon/ABOUT.md)
+[Source](./Teams//Tachyon/ABOUT.md)
 Team Tachyon
 ============
 ---
@@ -3546,7 +3546,7 @@ I am interested in theme 5, challenges associated with real time communication a
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Team Iron Squad/ABOUT.md)
+[Source](./Teams//Team Iron Squad/ABOUT.md)
 Welcome to Team Iron Squad
 ================
 
@@ -3571,7 +3571,7 @@ Thank you for learning a bit about team Iron Squad and CODE ON!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Team-Wild/ABOUT.md)
+[Source](./Teams//Team-Wild/ABOUT.md)
 # Team Wild
 
 I'm Tim, hoping to build a team to do great things with mapping for a community project. Interested? Get in touch with me @koding username wildmercury 
@@ -3587,7 +3587,7 @@ I'm Tim, hoping to build a team to do great things with mapping for a community 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamAnxious/ABOUT.md)
+[Source](./Teams//TeamAnxious/ABOUT.md)
 Team Anxious
 ================
 
@@ -3611,7 +3611,7 @@ Expertise in C#, Java, Web and API integrations. I defiantly will work with them
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamArcoiris/ABOUT.md)
+[Source](./Teams//TeamArcoiris/ABOUT.md)
 Team Arcoiris
 ================
 
@@ -3654,7 +3654,7 @@ We will be writing a real-time translator using SPA architechture and it is goin
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamBananaStand/ABOUT.md)
+[Source](./Teams//TeamBananaStand/ABOUT.md)
 About the Team
 ===========================
 
@@ -3695,7 +3695,7 @@ We're trying to come up with an impressive idea that has a tight-enough scope to
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamCarina/ABOUT.md)
+[Source](./Teams//TeamCarina/ABOUT.md)
 
 ##Team carina
 
@@ -3711,7 +3711,7 @@ Our Services include Web Designing & development, E-Commerce Solutions, ERP, Cus
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamCarter/ABOUT.md)
+[Source](./Teams//TeamCarter/ABOUT.md)
 # [Carter Sande](https://github.com/cartr)
 
 <img width="100" height="100" src='https://s.gravatar.com/avatar/97d0a5b32bd1a47dd0c2b6f4baabb97d?s=300' alt='Carter's profile image'/>
@@ -3720,7 +3720,7 @@ I like Gameboy Advance games and putting strange Unicode characters in places th
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamCookie/ABOUT.md)
+[Source](./Teams//TeamCookie/ABOUT.md)
 
 #Team Cookie
 
@@ -3747,7 +3747,7 @@ C
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamFlex/ABOUT.md)
+[Source](./Teams//TeamFlex/ABOUT.md)
 TeamFlex
 ================
 
@@ -3776,7 +3776,7 @@ We plan to create a real time chat application with a very unique twist, keep an
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamHairball/ABOUT.md)
+[Source](./Teams//TeamHairball/ABOUT.md)
 # Team Hairball
 
 _Hacking code and fur_
@@ -3800,7 +3800,7 @@ Team Hairball is a team of Python hackers who also like to hack the frontend JS.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamPooky/ABOUT.md)
+[Source](./Teams//TeamPooky/ABOUT.md)
 ## Team Pooky
 
 We will have an _awesome_ first December weekend, coding, having fun (and waiting for Saint Nicholas' presents ;)).
@@ -3812,14 +3812,14 @@ Can't wait to join all of the other teams in this historic event :D
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamShog/ABOUT.md)
+[Source](./Teams//TeamShog/ABOUT.md)
 TeamShog
 =========
 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TeamUltimate/ABOUT.md)
+[Source](./Teams//TeamUltimate/ABOUT.md)
 
 # Team Ultimate
 
@@ -3837,7 +3837,7 @@ I'm still a beginner and I prefer javascript as it is interactive.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Teamnataliags/ABOUT.md)
+[Source](./Teams//Teamnataliags/ABOUT.md)
 
 # Teamnataliags
 
@@ -3859,13 +3859,13 @@ I am Natalia and I do awsome things!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Terra/ABOUT.md)
+[Source](./Teams//Terra/ABOUT.md)
  
 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/The Washington Redskins/ABOUT.md)
+[Source](./Teams//The Washington Redskins/ABOUT.md)
 # The Washington Redskins
 
 We are five high-school students from Los Angeles, only one of whom actually plays football.
@@ -3909,7 +3909,7 @@ Expect us on Kickstarter [2] soon [3]!
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/The-Oracle/ABOUT.md)
+[Source](./Teams//The-Oracle/ABOUT.md)
 # The Oracle
 
 We are all here to do what we are all here to do...
@@ -3931,7 +3931,7 @@ We are all here to do what we are all here to do...
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TheChange/ABOUT.md)
+[Source](./Teams//TheChange/ABOUT.md)
 About the team and team members?
 
 I am Parth Pankaj Tiwary and I am from India, I am currently in the 3rd year of my 4 year bachelors degree in 
@@ -3950,7 +3950,7 @@ way we have structured our data so far and how should we go about changing it, i
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TheGoat/ABOUT.md)
+[Source](./Teams//TheGoat/ABOUT.md)
 We are The GOAT
 ================
 
@@ -3973,7 +3973,7 @@ Coming soon..
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TheThoughtEngineer/ABOUT.md)
+[Source](./Teams//TheThoughtEngineer/ABOUT.md)
 The Thought Engineer
 ================
 
@@ -4004,7 +4004,7 @@ Most probably I'll be working on solving the TOS problem. As a website owner and
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TheTigers/ABOUT.md)
+[Source](./Teams//TheTigers/ABOUT.md)
 This is our page
 ================
 
@@ -4039,7 +4039,7 @@ I will go with Theme#1 to develop application.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TheTwoPeas/ABOUT.md)
+[Source](./Teams//TheTwoPeas/ABOUT.md)
 TheTwoPeas
 ==========
 We are two good friends located in Hungary.
@@ -4058,7 +4058,7 @@ Python
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TheWarriorPoet/ABOUT.md)
+[Source](./Teams//TheWarriorPoet/ABOUT.md)
 About The Warrior Poet
 ===========================
 Tell us who you are, why you did you decide to join?
@@ -4079,7 +4079,7 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Thor/ABOUT.md)
+[Source](./Teams//Thor/ABOUT.md)
 Thor
 ================
 
@@ -4099,7 +4099,7 @@ Java, Scala, CSS/HTML + JavaScript, AngularJS, C#
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TimeToPlay/ABOUT.md)
+[Source](./Teams//TimeToPlay/ABOUT.md)
 #Team Time To Play
 
 Making games to change the world
@@ -4116,7 +4116,7 @@ I am looking for team members.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/TooringAnalytics/ABOUT.md)
+[Source](./Teams//TooringAnalytics/ABOUT.md)
 Tooring Analytics
 ================
 
@@ -4140,7 +4140,7 @@ Plan to work on one of themes #2 or #3 or even #5. Hope to narrow down something
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Toro/ABOUT.md)
+[Source](./Teams//Toro/ABOUT.md)
 Toro
 ================
 
@@ -4155,13 +4155,13 @@ The team
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Tourist/ABOUT.md)
+[Source](./Teams//Tourist/ABOUT.md)
 #Tourist
 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Trident/ABOUT.md)
+[Source](./Teams//Trident/ABOUT.md)
 Trident
 ================
 A single person team with a passion for Javascript.
@@ -4189,7 +4189,7 @@ Still working on it.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Trigen/ABOUT.md)
+[Source](./Teams//Trigen/ABOUT.md)
 This is our page
 ================
 
@@ -4227,7 +4227,7 @@ Comming soon
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Twentyseven/ABOUT.md)
+[Source](./Teams//Twentyseven/ABOUT.md)
 #WE ARE 27
 Hi. We are [Twentyseven](http://twentyseven.in) & we create beautiful and efficient code.
 
@@ -4240,7 +4240,7 @@ Hi. We are [Twentyseven](http://twentyseven.in) & we create beautiful and effici
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/U-section/ABOUT.md)
+[Source](./Teams//U-section/ABOUT.md)
 U-section
 ================
 We have started to develop software from infancy by using wooden cubes.
@@ -4268,7 +4268,7 @@ I will choose #1 or #4 theme.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/VeganZombies/ABOUT.md)
+[Source](./Teams//VeganZombies/ABOUT.md)
 The Vegan Zombies
 ================
 
@@ -4299,7 +4299,7 @@ We want to tackle EULAs and clickwrap agreements at both the software and servic
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Velocitones/ABOUT.md)
+[Source](./Teams//Velocitones/ABOUT.md)
 # The Velocitones
 
 ## Members
@@ -4320,7 +4320,7 @@ We want to tackle EULAs and clickwrap agreements at both the software and servic
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/VirtualCoder/ABOUT.md)
+[Source](./Teams//VirtualCoder/ABOUT.md)
 # Team VirtualCoder
 
 #I am Vivek Dudani.
@@ -4334,13 +4334,13 @@ Languages I would use for coding:
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/WarRoom/ABOUT.md)
+[Source](./Teams//WarRoom/ABOUT.md)
 COMING SOON
 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/WeByte/ABOUT.md)
+[Source](./Teams//WeByte/ABOUT.md)
 #We Byte
 
 We're a group of five coders from Egypt, and we take our dreams very seriously.
@@ -4352,7 +4352,7 @@ We still haven't decided what to do yet, but our arsenal is locked and loaded fo
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/WeLikeGoodCode/ABOUT.md)
+[Source](./Teams//WeLikeGoodCode/ABOUT.md)
 
 # WeLikeGoodCode
 
@@ -4372,7 +4372,7 @@ Ivan is silent Ruby developer who dreaming about long-long Rails project.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Wehaveanidea/ABOUT.md)
+[Source](./Teams//Wehaveanidea/ABOUT.md)
 We have an idea
 ===========================
 
@@ -4384,7 +4384,7 @@ We have an idea
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Whoogle/ABOUT.md)
+[Source](./Teams//Whoogle/ABOUT.md)
 # Whoogle Team
 
 I'm codding guru 8-)
@@ -4404,7 +4404,7 @@ I'm codding guru 8-)
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/WineTeam/ABOUT.md)
+[Source](./Teams//WineTeam/ABOUT.md)
 
 # Team Wine
 
@@ -4415,7 +4415,7 @@ I like Java, PHP and now my new favorites is AngularJS.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/XereoNet/ABOUT.md)
+[Source](./Teams//XereoNet/ABOUT.md)
 XereoNet
 ========
 
@@ -4470,7 +4470,7 @@ We still quite haven't decided what to do but we have some good ideas. Stay tune
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Yoshi/ABOUT.md)
+[Source](./Teams//Yoshi/ABOUT.md)
 # Yoshi
 
 I am Yoshi and I gamify this life
@@ -4487,12 +4487,12 @@ I am Yoshi and I gamify this life
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Zhvillues/ABOUT.md)
+[Source](./Teams//Zhvillues/ABOUT.md)
 http://zhvillues.tumblr.com/
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/Zphalcon/ABOUT.md)
+[Source](./Teams//Zphalcon/ABOUT.md)
 Zphalcon
 ================
 We are located in Ho Chi Minh, Vietnam.
@@ -4512,7 +4512,7 @@ About your skills and what you are going to do?
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/bigblind/ABOUT.md)
+[Source](./Teams//bigblind/ABOUT.md)
 This is our page
 ================
 
@@ -4548,7 +4548,7 @@ I might change my mind, and build applications using firebase instead of App Eng
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/codingkitten/ABOUT.md)
+[Source](./Teams//codingkitten/ABOUT.md)
 About codingkitten
 ===========================
 I'm a ruby/rails developer from Hungary.
@@ -4560,7 +4560,7 @@ I'm planning to work on topic #2 (Introducing software development to a beginner
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/conqueredMuffin/ABOUT.md)
+[Source](./Teams//conqueredMuffin/ABOUT.md)
 <h1><b>This is our page</b></h1>
 
 <em>Well actually it's just me for now. I am from Bosnia and Herzegovina, currently living in Sarajevo.</em>
@@ -4585,7 +4585,7 @@ make up a little for the lack of knowledge in coding. I will try to build a PC g
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/cool_kid_alert/ABOUT.md)
+[Source](./Teams//cool_kid_alert/ABOUT.md)
 cool_kid_alert
 ================
 Just a high schooler on the east coast who wants to test his skills. I doubt I will win, but I just want to see what participating feels like.
@@ -4609,7 +4609,7 @@ Another cool idea would be a way for people to highlight the most important part
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/cubelabs/ABOUT.md)
+[Source](./Teams//cubelabs/ABOUT.md)
 
 Welcome to the base of cubelabs.
 
@@ -4621,7 +4621,7 @@ We love coding and we will do it on koding.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/daGrinchyCode/ABOUT.md)
+[Source](./Teams//daGrinchyCode/ABOUT.md)
 da Grinchy Code
 ===========================
 
@@ -4644,7 +4644,7 @@ The Secret Sauce
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/drewpal/ABOUT.md)
+[Source](./Teams//drewpal/ABOUT.md)
 Drewpal
 ================
 
@@ -4672,7 +4672,7 @@ Skills and intended project
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/elFaro/ABOUT.md)
+[Source](./Teams//elFaro/ABOUT.md)
 Hola!
 ================
 
@@ -4692,7 +4692,7 @@ python, JavaScript.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/enkoded/ABOUT.md)
+[Source](./Teams//enkoded/ABOUT.md)
 About your team
 ===========================
 
@@ -4718,7 +4718,7 @@ to write cleaner foreign language.  Natural language, I mean, like English.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/grayMatter/ABOUT.md)
+[Source](./Teams//grayMatter/ABOUT.md)
 
 # Gray Matter Team
 
@@ -4742,7 +4742,7 @@ I have an amazing project that will be really useful, using Swift and Ruby on Ra
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/hausanfan/ABOUT.md)
+[Source](./Teams//hausanfan/ABOUT.md)
 # Team hausanfan
 Marcos F. Mayorga is the lonely mate
 
@@ -4765,7 +4765,7 @@ Windows 95
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/hawaiihackers/ABOUT.md)
+[Source](./Teams//hawaiihackers/ABOUT.md)
 Welcome to Hawaii Hackers
 ================
 
@@ -4803,7 +4803,7 @@ Mashape, and API Tools, so plan on seeing API's from at least one of these sites
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/hexapus/ABOUT.md)
+[Source](./Teams//hexapus/ABOUT.md)
 *Hexapus*
 
 It is one-man team (probably temporary). I am a software developer. Passionated about functional programming. Use Java, Scala and JS.
@@ -4822,7 +4822,7 @@ Most important reasons of participation in Global Hackathon:
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/icicle/ABOUT.md)
+[Source](./Teams//icicle/ABOUT.md)
 This is our page
 ================
 | manohar |
@@ -4840,7 +4840,7 @@ Web application with REST services.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/igHumble/ABOUT.md)
+[Source](./Teams//igHumble/ABOUT.md)
 igHumble
 ================
 
@@ -4862,7 +4862,7 @@ We're all full stack C#/.NET developers, although we're most likely going to be 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/imbecilez/ABOUT.md)
+[Source](./Teams//imbecilez/ABOUT.md)
 imbecilez team
 ===========================
 
@@ -4871,7 +4871,7 @@ We are web imbecilez from the Meteor Capital of the Earth and we are going to wi
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/infi/ABOUT.md)
+[Source](./Teams//infi/ABOUT.md)
 Team Infi
 
 About our team
@@ -4886,7 +4886,7 @@ PHP,C++,Python,Javascript.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/itzteam/ABOUT.md)
+[Source](./Teams//itzteam/ABOUT.md)
 About Itzteam
 ================
 Itzteam members
@@ -4901,7 +4901,7 @@ Itzteam members
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/kajalpasha/ABOUT.md)
+[Source](./Teams//kajalpasha/ABOUT.md)
 # Team Kajalpasha
 
 This is Kajal Pasha, try to think differently.
@@ -4920,7 +4920,7 @@ I'm an individual freelancer. I love challenging problems. I'm a good bug fixer 
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/lastFlop/ABOUT.md)
+[Source](./Teams//lastFlop/ABOUT.md)
 #lstFlop
 I am Azmath Shamrad from Colombo, Sri Lanka
 
@@ -4932,7 +4932,7 @@ I am Azmath Shamrad from Colombo, Sri Lanka
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/limonxello/ABOUT.md)
+[Source](./Teams//limonxello/ABOUT.md)
 #Limonxello team
 
 Soy un programador solitario, en un futuro me gustaría incluir a alguien más en el equipo.
@@ -4948,7 +4948,7 @@ Nick: Viruslemon
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/mapQuest/ABOUT.md)
+[Source](./Teams//mapQuest/ABOUT.md)
 mapQuest
 =====
 
@@ -4966,7 +4966,7 @@ We're going to combine **Cordva + HTML5 + CSS3 + AnguarJS + PHP (ZF2) + MongoDB*
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/megusta/ABOUT.md)
+[Source](./Teams//megusta/ABOUT.md)
 
 # megusta
 
@@ -4993,7 +4993,7 @@ every day".
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/myPHPmaster/ABOUT.md)
+[Source](./Teams//myPHPmaster/ABOUT.md)
 # myPHPmaster
 
 Another team for Koding global hackathon.
@@ -5017,7 +5017,7 @@ Yet to decide.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/ntdata/ABOUT.md)
+[Source](./Teams//ntdata/ABOUT.md)
 
 # ntdata
 
@@ -5031,7 +5031,7 @@ I'm Luke Sawicki, I'm specialising in GIS solutions.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/pqrstu/ABOUT.md)
+[Source](./Teams//pqrstu/ABOUT.md)
 #About this singleton
 
 ###Who, me?
@@ -5063,7 +5063,7 @@ Regards,
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/semiKolan/ABOUT.md)
+[Source](./Teams//semiKolan/ABOUT.md)
 # Welcome to team SemiKolan's About Page...
 ## 
 ###### *"Unity is strength... when there is teamwork and collaboration, wonderful things can be achieved."* - _Mattie Stepanek_
@@ -5103,7 +5103,7 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/undefined/ABOUT.md)
+[Source](./Teams//undefined/ABOUT.md)
 undefined
 =========
 
@@ -5111,7 +5111,7 @@ undefined
 
 ---------------------------------------
 
-[Source](/docker-shared/projects/global.hackathon/Teams/wise-eddy/ABOUT.md)
+[Source](./Teams//wise-eddy/ABOUT.md)
 Wise Eddy
 ============================
 [WE](http://wiseeddy.com) develop interactive and highly visual software for education and science applications. 

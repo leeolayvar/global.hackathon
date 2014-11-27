@@ -104,7 +104,7 @@ format_json = (data, filepath) ->
 # ## Tap Teams
 # Modify the markdown of the teams (brute forcing currently)
 tap_teams = (file, t) ->
-  markdown = "[Source](#{file.path})\n"
+  markdown = "[Source](./Teams#{file.path.split('Teams').pop()})\n"
   markdown += file.contents.toString()
   # Example string:   ![Alt Text](source.jpg)
   # Expected groups:   (Alt Text)(source.jpg)
